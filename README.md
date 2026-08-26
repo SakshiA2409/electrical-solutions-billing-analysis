@@ -150,25 +150,6 @@ The analysis can support:
 
 ---
 
-## 📁 Repository Structure
-
-```text
-Electrical-Solutions-Billing-Analysis/
-│
-├── data/
-│   └── anonymized_billing_data.xlsx
-│
-├── dashboard/
-│   └── electrical_solutions_dashboard.xlsx
-│
-├── images/
-│   └── dashboard.png
-│
-└── README.md
-```
-
----
-
 ## 🔐 Data Privacy
 
 This project was developed using **real business billing data**.
